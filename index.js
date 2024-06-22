@@ -19,12 +19,12 @@ const newsPages = [
   {
     name: 'enca',
     address: 'https://www.enca.com/business',
-    baseUrl: ''
+    baseUrl: 'https://www.enca.com'
   },
   {
     name: 'ewn',
     address: 'https://www.ewn.co.za/topics/Business',
-    baseUrl: 'https://www.ewn.co.za/'
+    baseUrl: 'https://www.ewn.co.za'
   }
   
 
