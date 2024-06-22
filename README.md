@@ -15,7 +15,7 @@ Start the server: npm start
 Open your browser or use an API client (like Postman) to access the endpoints.
 
 ## Endpoints
-GET /news: Retrieves all articles related to "tax" from all configured news websites.
+GET /news: Retrieves all articles related to "tax" from all configured news websites.  <br />
 GET /news/
 : Retrieves articles related to "tax" from a specific news website identified by :newsPageId.
 
