@@ -1,4 +1,4 @@
-# Project: Web Scraper for Tax News
+#  Web Scraper for Tax News
 
 ## Description
 This project is a web scraper built using Node.js and Express.js to fetch articles related to "tax" from various news websites. It utilizes Axios for HTTP requests and Cheerio for web scraping.
