@@ -22,10 +22,10 @@ GET /news/
 ## Configuration
 The scraper is configured to fetch data from the following news websites:
 
-news24: https://www.news24.com/fin24/money
-dailymaverick: https://www.dailymaverick.co.za/business-maverick
-enca: https://www.enca.com/business
-ewn: https://www.ewn.co.za/topics/Business
+news24: https://www.news24.com/fin24/money <br />
+dailymaverick: https://www.dailymaverick.co.za/business-maverick <br />
+enca: https://www.enca.com/business <br />
+ewn: https://www.ewn.co.za/topics/Business 
 
 ## Notes
 Ensure Node.js and npm are installed on your system.
